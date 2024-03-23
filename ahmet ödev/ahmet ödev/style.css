@@ -1,0 +1,35 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+button {
+  cursor: pointer;
+}
+
+#cart {
+  margin-top: 30px;
+}
+
+#cart-list li {
+  margin-bottom: 10px;
+}
+
+#total {
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 10px;
+}
+.card-img-top {
+  height: 200px; /* İhtiyacınıza göre uygun bir yükseklik belirleyin */
+  object-fit: cover;
+}
